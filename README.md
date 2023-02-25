@@ -9,7 +9,9 @@
 
 | Name                                                       | Link to Codewars                                               | Link to solution                                                                      |
 |------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Function 1 - hello world                                 | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/kyu8/function1helloworld.js)                     
+| Function 1 - hello world                                 | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/kyu8/function1helloworld.js)          |
+| Opposite number            | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095)            | [Link](./src/kyu8/sortnumbers.js)          |
+| Power            | [Link](https://www.codewars.com/kata/562926c855ca9fdc4800005b)            | [Link](./src/kyu8/power.js)          |
 
 ### 7 kyu
 

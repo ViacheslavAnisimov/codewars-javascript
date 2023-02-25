@@ -1,6 +1,6 @@
 const { assert } = require('chai');
 
-const opposite = requare('../../src/kyu8/sortnumbers').opposite
+const opposite = requare('../../src/kyu8/oppositenumber').opposite
 
 describe('Fixed tests', () => {
   it('Is it a function?', () => {
