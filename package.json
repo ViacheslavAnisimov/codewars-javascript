@@ -1,0 +1,23 @@
+{
+  "name": "codewars-javascript",
+  "version": "0.2.0",
+  "description": "Some katas from codewars.com on JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha ./test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViacheslavAnisimov/codewars-javascript.git"
+  },
+  "author": "ViacheslavAnisimov",
+  "bugs": {
+    "url": "https://github.com/ViacheslavAnisimov/codewars-javascript/issues"
+  },
+  "homepage": "https://github.com/ViacheslavAnisimov/codewars-javascript#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0",
+    "standard": "^14.3.1"
+  }
+}
