@@ -153,7 +153,7 @@
 | Simple Fun #176: Reverse Letter              | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)            | [Link](./src/kyu7/SimpleFun176ReverseLetter.java)            |
 | Simple string characters                     | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)            | [Link](./src/kyu7/SimpleStringCharacters.java)               |
 | Sort Numbers            | [Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)            | [Link](./src/kyu7/sortnumbers.js)          |
-| String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/kyu7/StringEndsWith.java)                       |
+| String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/kyu7/stringendswith.js)                       |
 | Sum of Cubes                                 | [Link](https://www.codewars.com/kata/59a8570b570190d313000037)            | [Link](./src/kyu7/SumOfCubes.java)                           |
 | The First Non Repeated Character In A String | [Link](https://www.codewars.com/kata/570f6436b29c708a32000826)            | [Link](./src/kyu7/TheFirstNonRepeatCharacterInAString.java)  |
 | The 'spiraling' box                          | [Link](https://www.codewars.com/kata/63b84f54693cb10065687ae5)            | [Link](./src/kyu7/TheSpiralingBox.java)                      |
