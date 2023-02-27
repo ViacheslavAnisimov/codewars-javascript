@@ -100,7 +100,7 @@
 | Simple validation of a username with regex                 | [Link](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Link](./src/kyu8/SimpleValidationOfAUsernameWithRegex.java)                |
 | Sort My Textbooks                                          | [Link](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051) | [Link](./src/kyu8/SortMyTextbooks.java)                                     |
 | Square(n) Sum                                              | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/kyu8/squarnsum.js)                                          |
-| String repeat                                              | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/kyu8/StringRepeat.java)                                        |
+| String repeat                                              | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/kyu8/stringreapit.js)                                        |
 | Stringy Strings                                            | [Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [Link](./src/kyu8/StringyStrings.java)                                      |
 | Sum of differences in array                                | [Link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Link](./src/kyu8/SumOfDifferencesInArray.java)                             |
 | Sum of Multiples                                           | [Link](https://www.codewars.com/kata/57241e0f440cd279b5000829) | [Link](./src/kyu8/SumOfMultiples.java)                                      |
