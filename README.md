@@ -9,8 +9,9 @@
 
 | Name                                                       | Link to Codewars                                               | Link to solution                                                                      |
 |------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| A wolf in sheep's clothing                                 | [Link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | [Link](./src/kyu8/AwolfInSheepsClothing.java)                               |
-| Abbreviate a Two Word Name                                 | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/kyu8/AbbreviateAtwoWordName.java)                              |
+| A Strange Trip to the Market                                 | [Link](https://www.codewars.com/kata/55ccdf1512938ce3ac000056) | [Link](./src/kyu8/astrangetriptothemarket.js)                               |
+| A wolf in sheep's clothing                                 | [Link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | [Link](./src/kyu8/awolfinsheepclothing.js)                               |
+| Abbreviate a Two Word Name                                 | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/kyu8/abbreviateatwowordname.js)                              |
 | All Star Code Challenge #18                                | [Link](https://www.codewars.com/kata/5865918c6b569962950002a1) | [Link](./src/kyu8/AllStarCodeChallenge18.java)                              |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe                      | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/kyu8/AlternatingCase.java)                                     |
 | Are You Playing Banjo?                                     | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/kyu8/AreYouPlayingBanjo.java)                                  |
@@ -69,10 +70,11 @@
 | Invert values                                              | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/kyu8/InvertValues.java)                                        |
 | Is it even?                                                | [Link](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Link](./src/kyu8/IsItEven.java)                                            |
 | Is it a number?                              | [Link](https://www.codewars.com/kata/57126304cdbf63c6770012bd)            | [Link](./src/kyu8/IsItANumber.java)                                         |
+| Is the string uppercase?                              | [Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)            | [Link](./src/kyu8/isthestringuppercase.js)                                         |
 | Jenny's secret message                                     | [Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | [Link](./src/kyu8/JennysSecretMessage.java)                                 |
 | Keep Hydrated!                                             | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/kyu8/KeepHydrated.java)                                        |
 | Keep up the hoop                                           | [Link](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [Link](./src/kyu8/KeepUpTheHoop.java)                                       |
-| MakeUpperCase                                              | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/kyu8/MakeUpperCase.java)                                       |
+| MakeUpperCase                                              | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/kyu8/makeuppercase.js)                                       |
 | Multiple of index                                          | [Link](https://www.codewars.com/kata/5a34b80155519e1a00000009) | [Link](./src/kyu8/MultipleOfIndex.java)                                     |
 | Multiplication table for number                            | [Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [Link](./src/kyu8/MultiplicationTableForNumber.java)                        |
 | Multiply                                                   | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/kyu8/multiply.js)                                            |
@@ -86,7 +88,7 @@
 | Quarter of the year                                        | [Link](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | [Link](./src/kyu8/QuarterOfTheYear.java)                                    |
 | Regexp Basics - is it a digit?                             | [Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032) | [Link](./src/kyu8/RegexpBasicIsItAdigit.java)                               |
 | Remove exclamation marks                                   | [Link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [Link](./src/kyu8/RemoveExclamationMarks.java)                              |
-| Remove First and Last Character                            | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link](./src/kyu8/RemoveFirstAndLastCharacter.java)                         |
+| Remove First and Last Character                            | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link](./src/kyu8/removefirstandlastcharacter.js)                         |
 | Remove String Spaces                                       | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Link](./src/kyu8/RemoveStringSpaces.java)                                  |
 | Return Negative                                            | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Link](./src/kyu8/ReturnNegative.java)                                      |
 | Return the day                                             | [Link](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25) | [Link](./src/kyu8/ReturnTheDay.java)                                        |
