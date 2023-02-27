@@ -57,7 +57,7 @@
 | Grasshopper - Basic Function Fixer                         | [Link](https://www.codewars.com/kata/56200d610758762fb0000002) | [Link](./src/kyu8/GrasshopperBasicFunctionFixer.java)                       |
 | Grasshopper - Debug sayHello                               | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/kyu8/GrasshopperDebuggingSayHelloFunction.java)                |
 | Grasshopper - Messi Goals                                  | [Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a) | [Link](./src/kyu8/GrasshopperMessiGoals.java)                               |
-| Grasshopper - Summation                                    | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/kyu8/GrasshopperSummation.java)                                |
+| Grasshopper - Summation                                    | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/kyu8/grasshoppersummation.js)                                |
 | Grasshopper - Terminal game move function                  | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [Link](./src/kyu8/GrasshopperTerminalGameMoveFunction.java)                 |
 | Gravity Flip                                               | [Link](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | [Link](./src/kyu8/GravityFlip.java)                                         |
 | Hex to Decimal                                             | [Link](https://www.codewars.com/kata/57a4d500e298a7952100035d) | [Link](./src/kyu8/HexToDecimal.java)                                        |
