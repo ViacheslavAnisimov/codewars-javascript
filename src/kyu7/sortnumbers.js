@@ -8,9 +8,8 @@
 
 
 function solution(nums) {
-    let arr = [];
     if (nums !== null &&  nums.length > 0) {
         return nums.sort(function(a, b) {return(a-b)});
     }
-    return arr;
+    return nums = [];
 }

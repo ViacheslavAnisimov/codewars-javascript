@@ -30,7 +30,7 @@
 | Classic Hello World                                        | [Link](https://www.codewars.com/kata/57036f007fd72e3b77000023) | [Link](./src/kyu8/ClassicHelloWorld.java)                                   |
 | Convert a Boolean to a String                              | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/kyu8/ConvertABooleanToAString.java)                            |
 | Convert a Number to a String!                              | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./src/kyu8/ConvertANumberToAString.java)                             |
-| Convert a String to a Number!                              | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/kyu8/ConvertAStringToANumber.java)                             |
+| Convert a String to a Number!                              | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/kyu8/convertastringtoanumber.js)                             |
 | Convert boolean values to strings 'Yes' or 'No'.           | [Link](https://www.codewars.com/kata/53369039d7ab3ac506000467) | [Link](./src/kyu8/ConvertBooleanValuesToStringYesOrNo.java)                 |
 | Convert number to reversed array of digits                 | [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | [Link](./src/kyu8/ConvertNumberToReversedArrayOfDigits.java)                |
 | Convert to Binary                                          | [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/kyu8/ConvertToBinary.java)                                     |
@@ -55,7 +55,7 @@
 | Get the mean of an array                                   | [Link](https://www.codewars.com/kata/563e320cee5dddcf77000158) | [Link](./src/kyu8/GetTheMeanOfAnArray.java)                                 |
 | Grasshopper - Array Mean                                   | [Link](https://www.codewars.com/kata/55d277882e139d0b6000005d) | [Link](./src/kyu8/GrasshopperArrayMean.java)                                |
 | Grasshopper - Basic Function Fixer                         | [Link](https://www.codewars.com/kata/56200d610758762fb0000002) | [Link](./src/kyu8/GrasshopperBasicFunctionFixer.java)                       |
-| Grasshopper - Debug sayHello                               | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/kyu8/GrasshopperDebuggingSayHelloFunction.java)                |
+| Grasshopper - Debug sayHello                               | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/kyu8/grasshopperdebugsayhello.js)                |
 | Grasshopper - Messi Goals                                  | [Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a) | [Link](./src/kyu8/GrasshopperMessiGoals.java)                               |
 | Grasshopper - Summation                                    | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/kyu8/grasshoppersummation.js)                                |
 | Grasshopper - Terminal game move function                  | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [Link](./src/kyu8/GrasshopperTerminalGameMoveFunction.java)                 |
@@ -75,7 +75,7 @@
 | MakeUpperCase                                              | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/kyu8/MakeUpperCase.java)                                       |
 | Multiple of index                                          | [Link](https://www.codewars.com/kata/5a34b80155519e1a00000009) | [Link](./src/kyu8/MultipleOfIndex.java)                                     |
 | Multiplication table for number                            | [Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [Link](./src/kyu8/MultiplicationTableForNumber.java)                        |
-| Multiply                                                   | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/kyu8/Multiply.java)                                            |
+| Multiply                                                   | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/kyu8/multiply.js)                                            |
 | My head is at the wrong end!                               | [Link](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Link](./src/kyu8/MyHeadIsAtTheWrongEnd.java)                               |
 | N-th Power                                                 | [Link](https://www.codewars.com/kata/57d814e4950d8489720008db) | [Link](./src/kyu8/NthPower.java)                                            |
 | Opposite number                                            | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/kyu8/oppositenumber.js)                                      |
@@ -106,7 +106,7 @@
 | Sum of Multiples                                           | [Link](https://www.codewars.com/kata/57241e0f440cd279b5000829) | [Link](./src/kyu8/SumOfMultiples.java)                                      |
 | Sum of positive                                            | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Link](./src/kyu8/SumOfPositive.java)                                       |
 | Sum without highest and lowest number                      | [Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6) | [Link](./src/kyu8/SumWithoutHighestAndLowestNumber.java)                    |
-| Switch it Up!                                              | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/kyu8/SwitchItUp.java)                                          |
+| Switch it Up!                                              | [Link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [Link](./src/kyu8/switchitup.js)                                          |
 | The Feast of Many Beasts                                   | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/kyu8/TheFeastOfManyBeast.java)                                 |
 | The Wide-Mouthed frog!                                     | [Link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) | [Link](./src/kyu8/TheWideMouthedFrog.java)                                  |
 | Thinkful - Logic Drills: Traffic light                     | [Link](https://www.codewars.com/kata/58649884a1659ed6cb000072) | [Link](./src/kyu8/ThinkfulLogicDrillsTrafficLight.java)                     |
@@ -120,7 +120,7 @@
 | Vowel remover                                              | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./src/kyu8/VowelRemover.java)                                        |
 | What is between?                                           | [Link](https://www.codewars.com/kata/55ecd718f46fba02e5000029) | [Link](./src/kyu8/WhatIsBetween.java)                                       |
 | Will there be enough space?                                | [Link](https://www.codewars.com/kata/5875b200d520904a04000003) | [Link](./src/kyu8/WillThereBeEnoughSpace.java)                              |
-| Will you make it?                                          | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link](./src/kyu8/WillYouMakeIt.java)                                       |
+| Will you make it?                                          | [Link](https://www.codewars.com/kata/5861d28f124b35723e00005e) | [Link](./src/kyu8/willyoumakeit.js)                                       |
 | You Can't Code Under Pressure #1                           | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [Link](./src/kyu8/YouCantCodeUnderPressure1.java)                           |
 | You only need one - Beginner                               | [Link](https://www.codewars.com/kata/57cc975ed542d3148f00015b) | [Link](./src/kyu8/YouOnlyNeedOneBeginner.java)                              |
 
