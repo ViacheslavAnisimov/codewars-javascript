@@ -53,7 +53,7 @@
 | How many arguments                           | [Link](https://www.codewars.com/kata/5c44b0b200ce187106452139)            | [Link](./src/kyu7/HowManyArguments.java)                     |
 | Incrementer                                  | [Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8)            | [Link](./src/kyu7/Incrementer.java)                          |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/Isograms.java)                             |
-| Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/JadenCasingStrings.java)                   |
+| Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/jadencasingstrings.js)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/largestelements.js)                      |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/kyu7/NthSmallestElementArraySeries4.java)       |
 | Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/kyu7/OrderedCountOfCharacters.java)             |
