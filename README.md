@@ -17,7 +17,7 @@
 | Are You Playing Banjo?                                     | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/kyu8/areyouplayingbanjo.js)                                  |
 | Area of a Square                                           | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/kyu8/areaofasquare.js)                                       |
 | Area or Perimeter                                          | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Link](./src/kyu8/areaorperimeter.js)                                     |
-| Basic Mathematical Operations                              | [Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [Link](./src/kyu8/BasicMathematicalOperation.java)                          |
+| Basic Mathematical Operations                              | [Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [Link](./src/kyu8/basicmathematicaloperation.js)                          |
 | Basic variable assignment                                  | [Link](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | [Link](./src/kyu8/BasicVariableAssignment.java)                             |
 | Beginner - Lost Without a Map                              | [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [Link](./src/kyu8/BeginnerLostWithoutAmap.java)                             |
 | Beginner - Reduce but Grow                                 | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/kyu8/BeginnerReduceButGrow.java)                               |
