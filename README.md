@@ -13,7 +13,6 @@
 | A wolf in sheep's clothing                                 | [Link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | [Link](./src/kyu8/awolfinsheepclothing.js)                               |
 | Abbreviate a Two Word Name                                 | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/kyu8/abbreviateatwowordname.js)                              |
 | All Star Code Challenge #18                                | [Link](https://www.codewars.com/kata/5865918c6b569962950002a1) | [Link](./src/kyu8/allstarcodechallenge18.js)                              |
-| altERnaTIng cAsE <=> ALTerNAtiNG CaSe                      | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/kyu8/AlternatingCase.java)                                     |
 | Are You Playing Banjo?                                     | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/kyu8/areyouplayingbanjo.js)                                  |
 | Area of a Square                                           | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/kyu8/areaofasquare.js)                                       |
 | Area or Perimeter                                          | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Link](./src/kyu8/areaorperimeter.js)                                     |
@@ -55,7 +54,7 @@
 | Incrementer                                  | [Link](https://www.codewars.com/kata/590e03aef55cab099a0002e8)            | [Link](./src/kyu7/Incrementer.java)                          |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/Isograms.java)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/JadenCasingStrings.java)                   |
-| Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/LargestElements.java)                      |
+| Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/largestelements.js)                      |
 | Nth Smallest Element (Array Series #4)       | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc)            | [Link](./src/kyu7/NthSmallestElementArraySeries4.java)       |
 | Ordered Count of Characters                  | [Link](https://www.codewars.com/kata/57a6633153ba33189e000074)            | [Link](./src/kyu7/OrderedCountOfCharacters.java)             |
 | Regexp Basics - is it a letter?              | [Link](https://www.codewars.com/kata/567de72e8b3621b3c300000b)            | [Link](./src/kyu7/RegexpBasicIsItAletter.java)               |
