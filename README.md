@@ -39,7 +39,7 @@
 
 | Name                                         | Link to Codewars                                                          | Link to solution                                                       |
 |----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/kyu7/BeginnerSeries3SumOfNumbers.java)          |
+| Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/kyu7/beginnerseries3sumofnumbers.js)          |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/kyu7/ChangingLetters.java)                      |
 | Count consonants                             | [Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106)            | [Link](./src/kyu7/CountConsonants.java)                      |
 | Covfefe                                      | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)            | [Link](./src/kyu7/Covfefe.java)                              |
