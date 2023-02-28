@@ -14,7 +14,7 @@
 | Abbreviate a Two Word Name                                 | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/kyu8/abbreviateatwowordname.js)                              |
 | All Star Code Challenge #18                                | [Link](https://www.codewars.com/kata/5865918c6b569962950002a1) | [Link](./src/kyu8/allstarcodechallenge18.js)                              |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe                      | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/kyu8/AlternatingCase.java)                                     |
-| Are You Playing Banjo?                                     | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/kyu8/AreYouPlayingBanjo.java)                                  |
+| Are You Playing Banjo?                                     | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](./src/kyu8/areyouplayingbanjo.js)                                  |
 | Area of a Square                                           | [Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [Link](./src/kyu8/AreaOfASquare.java)                                       |
 | Area or Perimeter                                          | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Link](./src/kyu8/AreaOrPerimeter.java)                                     |
 | Basic Mathematical Operations                              | [Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [Link](./src/kyu8/BasicMathematicalOperation.java)                          |
