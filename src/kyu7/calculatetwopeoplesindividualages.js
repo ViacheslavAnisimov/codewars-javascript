@@ -8,10 +8,9 @@
 
 function getAges(sum, difference) {
   let arr = [];
-  if (sum < 0 || difference < 0
-    || ((sum / 2) + (difference / 2)) < 0 || ((sum / 2) - (difference / 2)) < 0) {
+  if (sum < 0 || difference < 0 || ((sum + difference) / 2) < 0 || ((sum + difference) / 2) < 0) {
     return null;
   }
-  arr = [((sum / 2) + (difference / 2)), ((sum / 2) - (difference / 2))];
+  arr = [((sum + difference) / 2), ((sum - difference) / 2)];
   return arr;
 }

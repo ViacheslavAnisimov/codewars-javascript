@@ -40,10 +40,12 @@
 | Name                                         | Link to Codewars                                                          | Link to solution                                                       |
 |----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/kyu7/beginnerseries3sumofnumbers.js)          |
+| Calculate Two People's Individual Ages                             | [Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)            | [Link](./src/kyu7/calculatetwopeoplesindividualages.js)                      |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/kyu7/changingletters.js)                      |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/isograms.js)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/jadencasingstrings.js)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/largestelements.js)                      |
+| lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/kyu7/luckynumber.js)                      |
 | Sort Numbers            | [Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)            | [Link](./src/kyu7/sortnumbers.js)          |
 | String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/kyu7/stringendswith.js)                       |
 
