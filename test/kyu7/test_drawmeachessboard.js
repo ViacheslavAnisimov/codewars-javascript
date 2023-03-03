@@ -1,5 +1,7 @@
 const Test = require('@codewars/test-compat');
 
+const chessBoard = requare('../../src/kyu8/drawmechessboard').chessBoard
+
 describe('the chessboard', function() {
   it('should have correct number of rows and columns', function() {
     for (let i=0; i<4; i++) {

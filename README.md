@@ -44,6 +44,7 @@
 | Calculate Two People's Individual Ages                             | [Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)            | [Link](./src/kyu7/calculatetwopeoplesindividualages.js)                      |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/kyu7/changingletters.js)                      |
 | Debug Basic Calculator                             | [Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f)            | [Link](./src/kyu7/debugbasiccalculator.js)                      |
+| Disemvowel Trolls                                     | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/kyu7/disemvoweltrolls.js)                             |
 | draw me a chessboard                                     | [Link](https://www.codewars.com/kata/56242b89689c35449b000059)            | [Link](./src/kyu7/drawmeachessboard.js)                             |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/isograms.js)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/jadencasingstrings.js)                   |
