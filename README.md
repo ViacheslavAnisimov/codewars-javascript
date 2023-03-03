@@ -52,7 +52,8 @@
 | lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/kyu7/luckynumber.js)                      |
 | number with 3 roots.                             | [Link](https://www.codewars.com/kata/5932c94f6aa4d1d786000028)            | [Link](./src/kyu7/numberwith3roots.js)                      |
 | Sort Numbers            | [Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)            | [Link](./src/kyu7/sortnumbers.js)          |
-| String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java) | [Link](./src/kyu7/stringendswith.js)                       |
+| String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Link](./src/kyu7/stringendswith.js)                       |
+| Sum of two lowest positive integers                            | [Link](https://www.codewars.com/kata/558fc85d8fd1938afb000014) | [Link](./src/kyu7/sumoftwolowestpositiveintegers.js)                       |
 
 ### 6 kyu
 
