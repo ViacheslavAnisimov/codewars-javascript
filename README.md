@@ -46,6 +46,7 @@
 | Debug Basic Calculator                             | [Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f)            | [Link](./src/kyu7/debugbasiccalculator.js)                      |
 | Disemvowel Trolls                                     | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/kyu7/disemvoweltrolls.js)                             |
 | draw me a chessboard                                     | [Link](https://www.codewars.com/kata/56242b89689c35449b000059)            | [Link](./src/kyu7/drawmeachessboard.js)                             |
+| Exes and Ohs                                     | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/kyu7/exesandohs.js)                             |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/isograms.js)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/jadencasingstrings.js)                   |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/largestelements.js)                      |

@@ -1,6 +1,8 @@
 const chai = require("chai");
 const assert = chai.assert;
 
+const sumTwoSmallestNumbers = requare('../../src/kyu8/sumTwoSmallestNumbers').sumTwoSmallestNumbers
+
 describe("Your function", function() {
   it("should work for basic tests", function() {
     assert.strictEqual(sumTwoSmallestNumbers([5, 8, 12, 19, 22]), 13 , "Sum should be 13");
