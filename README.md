@@ -53,6 +53,7 @@
 | lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/kyu7/luckynumber.js)                      |
 | Noisy Cell Counts                             | [Link](https://www.codewars.com/kata/63ebadc7879f2500315fa07e)            | [Link](./src/kyu7/noisycellcounts.js)                      |
 | number with 3 roots.                             | [Link](https://www.codewars.com/kata/5932c94f6aa4d1d786000028)            | [Link](./src/kyu7/numberwith3roots.js)                      |
+| Simple Fun #176: Reverse Letter            | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)            | [Link](./src/kyu7/simplefun176reverseletter.js)          |
 | Sort Numbers            | [Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)            | [Link](./src/kyu7/sortnumbers.js)          |
 | String ends with?                            | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Link](./src/kyu7/stringendswith.js)                       |
 | Sum of integers in string                            | [Link](https://www.codewars.com/kata/598f76a44f613e0e0b000026) | [Link](./src/kyu7/sumofintegersinstring.js)                       |
