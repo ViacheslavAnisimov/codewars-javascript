@@ -61,4 +61,5 @@
 | Name                                         | Link to Codewars                                                          | Link to solution                                      |
 |----------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|
 | Break camelCase            | [Link](https://www.codewars.com/kata/5208f99aee097e6552000148)            | [Link](./src/kyu6/breakcamelcase.js) |
+| CamelCase Method            | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196)            | [Link](./src/kyu6/camelcasemethod.js) |
 | Multiplication table            | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)            | [Link](./src/kyu6/multiplicationtable.js) |
