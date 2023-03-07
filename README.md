@@ -62,6 +62,7 @@
 | Sum of Minimums!                            | [Link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699) | [Link](./src/kyu7/sumofminimums.js)                       |
 | Sum of two lowest positive integers                            | [Link](https://www.codewars.com/kata/558fc85d8fd1938afb000014) | [Link](./src/kyu7/sumoftwolowestpositiveintegers.js)                       |
 | Training JS #24: methods of arrayObject---splice() and slice()                            | [Link](https://www.codewars.com/kata/572cb264362806af46000793) | [Link](./src/kyu7/trainingjs24methodsofarrayobjectspleceandslice.js)                       |
+| Vowel one                            | [Link](https://www.codewars.com/kata/580751a40b5a777a200000a1) | [Link](./src/kyu7/vowelone.js)                       |
 
 ### 6 kyu
 
