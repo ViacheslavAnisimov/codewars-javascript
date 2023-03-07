@@ -50,6 +50,7 @@
 | Exes and Ohs                                     | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/kyu7/exesandohs.js)                             |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/isograms.js)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/jadencasingstrings.js)                   |
+| Keep the Order                             | [Link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7)            | [Link](./src/kyu7/keeptheorder.js)                      |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/largestelements.js)                      |
 | lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/kyu7/luckynumber.js)                      |
 | Noisy Cell Counts                             | [Link](https://www.codewars.com/kata/63ebadc7879f2500315fa07e)            | [Link](./src/kyu7/noisycellcounts.js)                      |
