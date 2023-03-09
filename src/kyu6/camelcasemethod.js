@@ -9,13 +9,13 @@
 
 String.prototype.camelCase = function () {
   if (this.length === 1) {
-    return this.toUpperCase()
+    return this.toUpperCase();
   } else if (this.length > 1) {
     let words = this.split(" ");
     for (let i = 0; i < words.length; i++) {
       words[i] = words[i][0].toUpperCase() + words[i].substr(1);
     }
-  return words.toString().replaceAll(",", "");
+    return words.toString().replaceAll(",", "");
   }
   return "";
-}
+};

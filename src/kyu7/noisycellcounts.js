@@ -10,11 +10,11 @@
 // The array will never be empty.
 
 function cleanedCounts(data) {
-    arr = [...data];
-    for (let i = 0; i < data.length; i++) {
-      if (arr[i] > arr[i + 1]) {
-        arr[i + 1] = arr[i]
-      }
+  arr = [...data];
+  for (let i = 0; i < data.length; i++) {
+    if (arr[i] > arr[i + 1]) {
+      arr[i + 1] = arr[i];
     }
-    return arr;
   }
+  return arr;
+}

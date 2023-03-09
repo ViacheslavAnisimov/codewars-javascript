@@ -10,17 +10,17 @@
 // Kind of a fork (not steal :)) of Basic Calculator kata by TheDoctor.
 
 var calculate = function calculate(a, o, b) {
-  if(o === "+") { 
+  if (o === "+") {
     return a + b;
   }
-  if(o === "-") {
+  if (o === "-") {
     return a - b;
   }
-  if(o === "/") { 
+  if (o === "/") {
     return b !== 0 ? a / b : null;
   }
-  if(o === "*") {
+  if (o === "*") {
     return a * b;
-   }
-   return null;
-}
+  }
+  return null;
+};

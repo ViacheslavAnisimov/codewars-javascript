@@ -28,6 +28,6 @@
 
 // "_UnderscoreMarked_Test_Name_" => _Underscore_Marked_Test_Name_"
 
-const toUnderScore = name => {
-    return name.replace(/\B([A-Z]|[0-9]+)/g, "_$1").replace(/__/g, "_");
-  }
+const toUnderScore = (name) => {
+  return name.replace(/\B([A-Z]|[0-9]+)/g, "_$1").replace(/__/g, "_");
+};

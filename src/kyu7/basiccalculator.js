@@ -15,7 +15,6 @@
 // return null (throw an ArgumentException in C#)/(None in Python).
 
 function calculate(num1, operation, num2) {
-  //TODO: make a basic calculator. 
   if (operation === "+") {
     return num1 + num2;
   } else if (operation === "-") {

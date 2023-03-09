@@ -15,6 +15,5 @@
 //     [output] a string
 
 function reverseLetter(str) {
-    //coding and coding..
-    return str.split("").reverse().join("").replace(/[^a-zA-Z]/g, "");
-  }
+  return str.split("").reverse().join("").replace(/[^a-zA-Z]/g, "");
+}

@@ -14,12 +14,13 @@
 // ENJOY CODING :)
 
 function sumOfMinimums(arr) {
-    // your code here
-    let sum = 0;
-  
-    for (let i = 0; i < arr.length; i++) {
-      arr[i].sort(function (a, b) {return a-b})
-      sum += arr[i][0];
-    }
-    return sum;
+  let sum = 0;
+
+  for (let i = 0; i < arr.length; i++) {
+    arr[i].sort(function (a, b) {
+      return a - b;
+    });
+    sum += arr[i][0];
   }
+  return sum;
+}

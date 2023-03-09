@@ -11,5 +11,5 @@
 // vowelOne( "aeiou, abc" ) // "1111100100"
 
 function vowelOne(s) {
-  return s.replace(/[^aeiou]/gi, '0').replace(/[aeiou]/gi, '1');
+  return s.replace(/[^aeiou]/gi, "0").replace(/[aeiou]/gi, "1");
 }

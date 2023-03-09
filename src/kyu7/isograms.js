@@ -9,6 +9,5 @@
 // isIsogram "aba" = false
 
 function isIsogram(str){
-    //...
-    return !str.match(/([a-z]).*\1/i);
-  }
+  return !str.match(/([a-z]).*\1/i);
+}
