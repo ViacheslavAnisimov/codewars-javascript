@@ -68,6 +68,7 @@
 
 | Name                                         | Link to Codewars                                                          | Link to solution                                      |
 |----------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------|
+| Basic Encryption            | [Link](https://www.codewars.com/kata/5862fb364f7ab46270000078)            | [Link](./src/kyu6/basicencryption.js) |
 | Break camelCase            | [Link](https://www.codewars.com/kata/5208f99aee097e6552000148)            | [Link](./src/kyu6/breakcamelcase.js) |
 | CamelCase Method            | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196)            | [Link](./src/kyu6/camelcasemethod.js) |
 | CamelCase to underscore            | [Link](https://www.codewars.com/kata/5b1956a7803388baae00003a)            | [Link](./src/kyu6/camelcasetounderscore.js) |
