@@ -72,5 +72,6 @@
 | Break camelCase            | [Link](https://www.codewars.com/kata/5208f99aee097e6552000148)            | [Link](./src/kyu6/breakcamelcase.js) |
 | CamelCase Method            | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196)            | [Link](./src/kyu6/camelcasemethod.js) |
 | CamelCase to underscore            | [Link](https://www.codewars.com/kata/5b1956a7803388baae00003a)            | [Link](./src/kyu6/camelcasetounderscore.js) |
+| Convert string to camel case            | [Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/train)            | [Link](./src/kyu6/convertstringtocamelcase.js) |
 | Multiplication table            | [Link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)            | [Link](./src/kyu6/multiplicationtable.js) |
 | Who likes it?            | [Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)            | [Link](./src/kyu6/wholikesit.js) |
