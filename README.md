@@ -45,6 +45,7 @@
 | Calculate Two People's Individual Ages                             | [Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)            | [Link](./src/kyu7/calculatetwopeoplesindividualages.js)                      |
 | Ch4113ng3                             | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)            | [Link](./src/kyu7/ch4113ng3.js)                      |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/kyu7/changingletters.js)                      |
+| Covfefe                             | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)            | [Link](./src/kyu7/covfefe.js)                      |
 | Debug Basic Calculator                             | [Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f)            | [Link](./src/kyu7/debugbasiccalculator.js)                      |
 | Descending Order                                     | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/kyu7/descendingorder.js)                             |
 | Disemvowel Trolls                                     | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/kyu7/disemvoweltrolls.js)                             |
