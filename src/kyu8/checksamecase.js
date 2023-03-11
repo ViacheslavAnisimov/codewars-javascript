@@ -24,3 +24,16 @@ function sameCase(a, b){
     }
       return (a === a.toLowerCase()) === (b === b.toLowerCase()) ? 1 : 0;
   }
+
+//   if (
+//     a.toUpperCase() === a.toLowerCase() ||
+//     b.toUpperCase() === b.toLowerCase()
+//   ) {
+//     return -1;
+//   } else if (
+//     (a === a.toUpperCase() && b === b.toUpperCase()) ||
+//     (a === a.toLowerCase() && b === b.toLowerCase())
+//   ) {
+//     return 1;
+//   }
+//   return 0;
