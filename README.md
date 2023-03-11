@@ -39,6 +39,7 @@
 
 | Name                                         | Link to Codewars                                                          | Link to solution                                                       |
 |----------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Band name generator            | [Link](https://www.codewars.com/kata/59727ff285281a44e3000011)            | [Link](./src/kyu7/bandnamegenerator.js)          |
 | Basic Calculator            | [Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)            | [Link](./src/kyu7/basiccalculator.js)          |
 | Beginner Series #3 Sum of Numbers            | [Link](https://www.codewars.com/kata/55f2b110f61eb01779000053)            | [Link](./src/kyu7/beginnerseries3sumofnumbers.js)          |
 | Calculate Two People's Individual Ages                             | [Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)            | [Link](./src/kyu7/calculatetwopeoplesindividualages.js)                      |
