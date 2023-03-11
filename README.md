@@ -45,6 +45,7 @@
 | Ch4113ng3                             | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112)            | [Link](./src/kyu7/ch4113ng3.js)                      |
 | Changing letters                             | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294)            | [Link](./src/kyu7/changingletters.js)                      |
 | Debug Basic Calculator                             | [Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f)            | [Link](./src/kyu7/debugbasiccalculator.js)                      |
+| Descending Order                                     | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)            | [Link](./src/kyu7/descendingorder.js)                             |
 | Disemvowel Trolls                                     | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/kyu7/disemvoweltrolls.js)                             |
 | draw me a chessboard                                     | [Link](https://www.codewars.com/kata/56242b89689c35449b000059)            | [Link](./src/kyu7/drawmeachessboard.js)                             |
 | Exes and Ohs                                     | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/kyu7/exesandohs.js)                             |
