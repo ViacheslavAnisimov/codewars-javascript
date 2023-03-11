@@ -50,6 +50,7 @@
 | Disemvowel Trolls                                     | [Link](https://www.codewars.com/kata/52fba66badcd10859f00097e)            | [Link](./src/kyu7/disemvoweltrolls.js)                             |
 | draw me a chessboard                                     | [Link](https://www.codewars.com/kata/56242b89689c35449b000059)            | [Link](./src/kyu7/drawmeachessboard.js)                             |
 | Exes and Ohs                                     | [Link](https://www.codewars.com/kata/55908aad6620c066bc00002a)            | [Link](./src/kyu7/exesandohs.js)                             |
+| Heron's formula                                     | [Link](https://www.codewars.com/kata/57aa218e72292d98d500240f)            | [Link](./src/kyu7/heronsformula.js)                             |
 | Isograms                                     | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)            | [Link](./src/kyu7/isograms.js)                             |
 | Jaden Casing Strings                         | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6)            | [Link](./src/kyu7/jadencasingstrings.js)                   |
 | Keep the Order                             | [Link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7)            | [Link](./src/kyu7/keeptheorder.js)                      |
