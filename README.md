@@ -9,7 +9,7 @@
 
 | Name                                                       | Link to Codewars                                               | Link to solution                                                                      |
 |------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| A Strange Trip to the Market                                 | [Link](https://www.codewars.com/kata/55ccdf1512938ce3ac000056) | [Link](./src/kyu8/astrangetriptothemarket.js)                               |
+| A Strange Trip to the Market                               | [Link](https://www.codewars.com/kata/55ccdf1512938ce3ac000056) | [Link](./src/kyu8/astrangetriptothemarket.js)                               |
 | A wolf in sheep's clothing                                 | [Link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15) | [Link](./src/kyu8/awolfinsheepclothing.js)                               |
 | Abbreviate a Two Word Name                                 | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/kyu8/abbreviateatwowordname.js)                              |
 | All Star Code Challenge #18                                | [Link](https://www.codewars.com/kata/5865918c6b569962950002a1) | [Link](./src/kyu8/allstarcodechallenge18.js)                              |
@@ -18,11 +18,12 @@
 | Area or Perimeter                                          | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Link](./src/kyu8/areaorperimeter.js)                                     |
 | Basic Mathematical Operations                              | [Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [Link](./src/kyu8/basicmathematicaloperation.js)                          |
 | Century From Year                                          | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link](./src/kyu8/centuryfromyear.js)                                     |
+| Check same case                              | [Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b) | [Link](./src/kyu8/checksamecase.js)                             |
 | Convert a String to a Number!                              | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/kyu8/convertastringtoanumber.js)                             |
 | Function 1 - hello world                                   | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Link](./src/kyu8/function1helloworld.js)                                 |
 | Grasshopper - Debug sayHello                               | [Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | [Link](./src/kyu8/grasshopperdebugsayhello.js)                |
 | Grasshopper - Summation                                    | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/kyu8/grasshoppersummation.js)                                |
-| Is the string uppercase?                              | [Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)            | [Link](./src/kyu8/isthestringuppercase.js)                                         |
+| Is the string uppercase?                                   | [Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)   | [Link](./src/kyu8/isthestringuppercase.js)                                         |
 | MakeUpperCase                                              | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/kyu8/makeuppercase.js)                                       |
 | Multiply                                                   | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./src/kyu8/multiply.js)                                            |
 | Opposite number                                            | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [Link](./src/kyu8/oppositenumber.js)                                      |
@@ -59,6 +60,7 @@
 | lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/kyu7/luckynumber.js)                      |
 | Noisy Cell Counts                             | [Link](https://www.codewars.com/kata/63ebadc7879f2500315fa07e)            | [Link](./src/kyu7/noisycellcounts.js)                      |
 | number with 3 roots.                             | [Link](https://www.codewars.com/kata/5932c94f6aa4d1d786000028)            | [Link](./src/kyu7/numberwith3roots.js)                      |
+| shorter concat [reverse longer]            | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45)            | [Link](./src/kyu7/shorterconcatreverselonger.js)          |
 | Simple Fun #176: Reverse Letter            | [Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)            | [Link](./src/kyu7/simplefun176reverseletter.js)          |
 | Simple string characters            | [Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058)            | [Link](./src/kyu7/simplestringcharacters.js)          |
 | Sort Numbers            | [Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)            | [Link](./src/kyu7/sortnumbers.js)          |
