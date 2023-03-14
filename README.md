@@ -58,6 +58,7 @@
 | Keep the Order                             | [Link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7)            | [Link](./src/kyu7/keeptheorder.js)                      |
 | Largest Elements                             | [Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256)            | [Link](./src/kyu7/largestelements.js)                      |
 | lucky number                             | [Link](https://www.codewars.com/kata/55afed09237df73343000042)            | [Link](./src/kyu7/luckynumber.js)                      |
+| Multiples!                             | [Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b)            | [Link](./src/kyu7/multiples.js)                      |
 | Noisy Cell Counts                             | [Link](https://www.codewars.com/kata/63ebadc7879f2500315fa07e)            | [Link](./src/kyu7/noisycellcounts.js)                      |
 | number with 3 roots.                             | [Link](https://www.codewars.com/kata/5932c94f6aa4d1d786000028)            | [Link](./src/kyu7/numberwith3roots.js)                      |
 | shorter concat [reverse longer]            | [Link](https://www.codewars.com/kata/54557d61126a00423b000a45)            | [Link](./src/kyu7/shorterconcatreverselonger.js)          |
